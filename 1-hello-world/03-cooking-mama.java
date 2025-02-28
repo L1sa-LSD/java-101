@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("4. Drain pasta.");
         System.out.println("5. Add sauce.");
         System.out.println("6. Mix well.");
+        System.out.println("7. Season food.")
     }
 }
